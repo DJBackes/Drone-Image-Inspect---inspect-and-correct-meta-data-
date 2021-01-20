@@ -4,12 +4,15 @@ Authors:<br>
 [Dietmar Backes](https://wwwfr.uni.lu/recherche/fstm/doe/members/dietmar_backes) Engineering Department, Faculty of Sciences, Technologies and Medicine, University of Luxembourg<br>
 [Frank Soboczenski](https://h21k.github.io/) School of Population Health and Life Sciences, King's College London, London, UK<br>
 
+## Contributors
+[![Contributors Display](https://badges.pufler.dev/contributors/puf17640/git-badges?size=50&padding=5&bots=true)](https://badges.pufler.dev)
+
 ## What is this about?
 This code provides functions to read, query and manipulate drone image meta data in exif and xmp headers.
 
 ## Problem Scenario
 ![Alt text](DJI-Image1.png?raw=true "Optional Title")
-
+The above image shows that in some cases the gimbals during the image collection get flipped. We are providing a solution for this problem here.
 
 
 
