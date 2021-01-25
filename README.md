@@ -6,7 +6,8 @@ Authors:<br>
 
 ## Contributors
 <img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/DJBackes/DroneImage-MetaData-Manipulation"><br>
-https://img.shields.io/github/commit-activity/m/DJBackes/DroneImage-MetaData-Manipulation
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/DJBackes/DroneImage-MetaData-Manipulation">
+
 ## What is this about?
 This code provides functions to read, query and manipulate drone image meta data in exif and xmp headers.
 
@@ -24,9 +25,9 @@ Data folder:<br>
 + `TimeAnalysis2_1.xlsx` (main data file)<br>
 + `UXData1.xlsx` (aux data file - mainly including qualitative answers)<br>
               
-Jupyter Notebook: Analysis.ipynb<br>
+Jupyter Notebook: X.ipynb<br>
 Structure:<br>  
-1. `Main Analysis` (distribution of the data, Wilcoxon significance tests, boxplots, scatterplots)<br>
+1. `example` (example)<br>
 
 
 Provides functions to read, query and manipulate drone image meta data in exif and xmp headers.
