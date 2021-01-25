@@ -6,6 +6,7 @@ Authors:<br>
 
 ## Contributors
 <img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/DJBackes/DroneImage-MetaData-Manipulation"><br>
+<img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/DJBackes/DroneImage-MetaData-Manipulation/master"><br>
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/DJBackes/DroneImage-MetaData-Manipulation">
 
 ## What is this about?
