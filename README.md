@@ -15,19 +15,13 @@ This code provides functions to read, query and manipulate drone image meta data
 ![Alt text](DJI-Image1.png?raw=true "Optional Title")<br>
 The above image shows that in some cases the gimbals during the image collection get flipped. We are providing a solution for this problem here.
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-
-
 ## Structure of the repository
 
-Data folder:<br> 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DJBackes/DroneImage-MetaData-Manipulation/blob/main/image_filter_v2.ipynb]
 
-+ `TimeAnalysis2_1.xlsx` (main data file)<br>
-+ `UXData1.xlsx` (aux data file - mainly including qualitative answers)<br>
-              
 Jupyter Notebook: X.ipynb<br>
 Structure:<br>  
-1. `example` (example)<br>
+1. `image-filter_v2` (initial setup of the notebook with code links to data buckets on Google Cloud)<br>
 
 
 Provides functions to read, query and manipulate drone image meta data in exif and xmp headers.
