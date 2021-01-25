@@ -26,3 +26,11 @@ Structure:<br>
 
 
 Provides functions to read, query and manipulate drone image meta data in exif and xmp headers.
+
+
+## To do list / forthcoming implementations 
+
+1.	Notebook version for Google Drive 
+2.	Altitude correction (GPS altitude)
+3.	Create external orientations csv file 
+
