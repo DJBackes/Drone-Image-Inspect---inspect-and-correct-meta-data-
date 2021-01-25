@@ -20,6 +20,8 @@ The above image shows that in some cases the gimbals during the image collection
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DJBackes/DroneImage-MetaData-Manipulation/blob/main/image_filter_v2.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DJBackes/DroneImage-MetaData-Manipulation/blob/main/Drone_image_inspect_DJI_forGoogleDrive_v2.ipynb)
+
 Jupyter Notebook: X.ipynb<br>
 Structure:<br>  
 1. `image-filter_v2` (initial setup of the notebook with code links to data buckets on Google Cloud)<br>
