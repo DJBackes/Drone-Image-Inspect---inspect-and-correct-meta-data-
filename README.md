@@ -18,9 +18,9 @@ The above image shows that in some cases the gimbals during the image collection
 
 ## Structure of the repository
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DJBackes/DroneImage-MetaData-Manipulation/blob/main/image_filter_v2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DJBackes/DroneImage-MetaData-Manipulation/blob/main/image_filter_v2.ipynb) Image inspect DJI Drones V0 (connect to a personal google drive or Google Cloud) 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DJBackes/DroneImage-MetaData-Manipulation/blob/main/Drone_image_inspect_DJI_forGoogleDrive_v2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DJBackes/DroneImage-MetaData-Manipulation/blob/main/Drone_image_inspect_DJI_forGoogleDrive_v2.ipynb) Image inspect for DJI Drones V2 (connect to a personal gdrive) 
 
 Jupyter Notebook: X.ipynb<br>
 Structure:<br>  
