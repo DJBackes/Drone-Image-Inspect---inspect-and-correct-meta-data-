@@ -17,9 +17,7 @@ The above image shows that in some cases the gimbals during the image collection
 
 ## Structure of the repository
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DJBackes/DroneImage-MetaData-Manipulation/blob/main/image_filter_v2.ipynb]
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/timsainb/tensorflow2-generative-models/blob/master/1.0-Variational-Autoencoder-fashion-mnist.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DJBackes/DroneImage-MetaData-Manipulation/blob/main/image_filter_v2.ipynb)
 
 Jupyter Notebook: X.ipynb<br>
 Structure:<br>  
