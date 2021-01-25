@@ -4,7 +4,7 @@ Authors:<br>
 [Dietmar Backes](https://wwwfr.uni.lu/recherche/fstm/doe/members/dietmar_backes) Engineering Department, Faculty of Sciences, Technologies and Medicine, University of Luxembourg<br>
 [Frank Soboczenski](https://h21k.github.io/) School of Population Health and Life Sciences, King's College London, London, UK<br>
 
-## Contributors
+## Badges
 <img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/DJBackes/DroneImage-MetaData-Manipulation"><br>
 <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/DJBackes/DroneImage-MetaData-Manipulation/master"><br>
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/DJBackes/DroneImage-MetaData-Manipulation">
